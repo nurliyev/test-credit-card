@@ -1,0 +1,25 @@
+.credit-card {
+  /* background-color: bisque;
+  border-radius: 20px;*/
+  border: 1px solid;
+  width: 300px;
+  padding: 20px;
+  background-color: #333;
+  color: beige;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+}
+
+.cardform {
+  border: 1px solid;
+  width: 300px;
+  padding: 20px;
+  background-color: #6348fe;
+  color: beige;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+}
